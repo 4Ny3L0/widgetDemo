@@ -24,7 +24,7 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name="NewAppWidget"
+        <receiver android:name="YappyQuickActions"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />

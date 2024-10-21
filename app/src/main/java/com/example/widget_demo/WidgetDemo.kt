@@ -5,7 +5,7 @@ import android.widget.RemoteViews
 import com.example.widget_demo.R
 
 // Implementation of App Widget functionality.
-class NewAppWidget : AppWidgetProvider() {
+class YappyQuickActions : AppWidgetProvider() {
     override fun onUpdate(
         context: Context,
         appWidgetManager: AppWidgetManager,
